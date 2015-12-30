@@ -1,6 +1,6 @@
 name: BurningJudas
 favicon: null
-layout_spectrum: 0.7322727302089334
+layout_spectrum: 0.25184
 typography_spectrum: 0.9639329218771309
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.06458132085390389
+  brandStrength: 0.5
   lightness: 0.2513143583200872
-  saturation: 0.24685774347744882
-  rhythmicContrast: 0.8823664591182023
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
