@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BurningJudas]]></title>
         <description><![CDATA[BurningJudas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/burningjudas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 22:40:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 22:42:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/burningjudas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a9e6e07-f4bd-4888-85a5-66060155496d.JPG">]]></description>
-            <link>undefinedbcfa9a7a-b88e-4d28-9b29-c692328956c1/index.html</link>
+            <link>https://thegrid.ai/burningjudas/bcfa9a7a-b88e-4d28-9b29-c692328956c1/index.html</link>
             <guid isPermaLink="false">bcfa9a7a-b88e-4d28-9b29-c692328956c1</guid>
-            <pubDate>Wed, 30 Dec 2015 22:40:32 GMT</pubDate>
+            <pubDate>Wed, 30 Dec 2015 22:42:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
