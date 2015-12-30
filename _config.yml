@@ -1,0 +1,28 @@
+name: BurningJudas
+favicon: null
+layout_spectrum: 0.7322727302089334
+typography_spectrum: 0.9639329218771309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.06458132085390389
+  lightness: 0.2513143583200872
+  saturation: 0.24685774347744882
+  rhythmicContrast: 0.8823664591182023
+purpose: []
